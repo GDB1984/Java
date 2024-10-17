@@ -1,3 +1,13 @@
+// Exercício 3
+Criar um método chamado encontrarMax
+seu método deve receber dois números (int) como parâmetro de entrada;
+e deve retornar o maior valor entre esses números.
+Para testar seu programa:
+Leia dois números do usuário.
+chame o método passando esses números.
+imprima o valor retornado pelo seu método. //
+
+
 import java.util.Scanner;
 
 public class EncontrarMax {
