@@ -1,4 +1,4 @@
-package conditionals.switches.switch_expressions;
+package conditionals.switches.examples.switch_expressions;
 
 import java.util.Scanner;
 
