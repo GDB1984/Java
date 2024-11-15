@@ -15,13 +15,16 @@ public class Main {
         int option = sc.nextInt();
         switch (option) {
             case 1:
-                System.out.println("Cadastrando produtos...");
+                System.out.println("Você escolheu a opção 1");
+                System.out.println("Que é a opção de cadastrar produtos");
                 break;
             case 2:
-                System.out.println("Listando produtos...");
+                System.out.println("Você escolheu a opção 2");
+                System.out.println("Que é a opção de listar produtos");
                 break;
             case 3:
-                System.out.println("Saindo do sistema...");
+                System.out.println("Você escolheu a opção 3");
+                System.out.println("Que é a opção de sair do sistema");
                 break;
             default:
                 System.out.println("Opção inválida!");
