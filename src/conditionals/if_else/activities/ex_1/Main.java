@@ -1,3 +1,4 @@
+//Ajustes para aula
 package conditionals.if_else.activities.ex_1;
 
 /* Faça um algoritmo que leia um número inteiro:
